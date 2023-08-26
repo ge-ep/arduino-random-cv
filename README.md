@@ -1,5 +1,5 @@
 # arduino-random-cv
-<p>A project using the hardware set-up outlined by Takumi Ogata in the <a target="_blank href="https://youtu.be/PaWp6zny83I?si=1tmL2BKSnuteJ7N7">4 CVs from Arduino video</a>.</p>
+<p>A project using the hardware set-up outlined by Takumi Ogata in the <a target="_blank" href="https://youtu.be/PaWp6zny83I?si=1tmL2BKSnuteJ7N7">4 CVs from Arduino video</a>.</p>
 <br/>
 <p><b>Required Hardware</b></p>
 <ul><li>Arduino - Uno or Nano should work, though so far I've only tested this with Arduino Uno</li>
