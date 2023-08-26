@@ -14,7 +14,7 @@
 <p><b>Basic Set-up</b></p>
 <ol><li>Solder the headerpins to the MCP4728</li>
     <li>Connect the Arduino to the MCP4728 as described in the Adafruit article linked above</li>
-    <li>If you haven't already done so, download the <b>Adafruit MCP4728 Library</b>in the Arduino IDE</li> 
+    <li>If you haven't already done so, download the <b>Adafruit MCP4728 Library</b> in the Arduino IDE</li> 
     <li>Run <code>basic_demo.ino</code> first to ensure you're getting the expected voltages (the steps are outlined in the Adafruit article) </li>
     <li>If all is well, wire up your inputs to <b>VA</b>, <b>VB</b>, <b>VC</b>, and <b>VD</b></li>
     <li>At this point I'd run a quick test on the inputs to make sure you've got them all wired up correctly</li>
@@ -22,6 +22,6 @@
     <br/>
     <p><b>To Dos</b></p>
     <ul><li>Optimize the code -- I'm a python beginner rn, so it's not optimized at all and probably looks whack to experts</li>
-        <li>Make a perfboard layout -- Ulimately I want this to be used with my modular gear, so getting it layed out and working as a Eurorack and/or Kosmo unit is important.</li>
-        <li>Incoporate some triggering options -- either physical (reset button? touch pad interation? vactrol input as trigger for randomization?)</li>
+        <li>Make a perfboard layout -- Ultimately I want this to be used with my modular gear, so getting it layed out and working as a Eurorack and/or Kosmo unit is important.</li>
+        <li>Incorporate some triggering options -- either physical (reset button? touch pad interation? vactrol input as trigger for randomization?)</li>
         <li>Explore the <b>Vref</b> capabilities of the MCP4720 as this could lead to a Gate/Trigger function</li></ul>
