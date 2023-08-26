@@ -9,8 +9,8 @@
         If you want to faff around with wired PJ301-Ms or Thonkiconn jacks, go for it.</li></ul>
 <p><b>Suggested Reading</b></p>
 <ul><li><a target="_blank" href="https://learn.adafruit.com/adafruit-mcp4728-i2c-quad-dac/arduino">This article</a> on how to connect an Arduino and MCP4728 will ensure you get everything set up correctly</li>
-    <li>That's about it, really. If you don't know how to upload scripts to an Arduino there's a ton of documentation on <a target="_blank">their site</a> and lots of walkrthough videos on YouTube to 
-      help you along</li></ul>
+    <li>That's about it, really. If you don't know how to upload scripts to an Arduino there's a ton of documentation on <a target="_blank" href="https://www.arduino.cc/en/Guide">their site</a> and lots of walkthrough videos on YouTube to help you along</li>
+    <li>The Youtube video linked above - and the rest in his <b>Let's Build a DIY Instrument</b> <a target="_blank" href="https://youtube.com/playlist?list=PLyFkFo29zHvC5oiRAdwvwxADUeLhCm3lV&si=FIBFOQCawkSmabCd">playlist</a> are well worth watching</li></ul>
 <p><b>Basic Set-up</b></p>
 <ol><li>Solder the headerpins to the MCP4728</li>
     <li>Connect the Arduino to the MCP4728 as described in the Adafruit article linked above</li>
